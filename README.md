@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://ghstats.17lai.site/?username=microshatter&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=700 />
 <!--
 **microshatter/microshatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
